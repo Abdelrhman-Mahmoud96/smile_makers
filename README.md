@@ -1,5 +1,5 @@
 # smile_makers 
-  A donation app that lets you participate in campaigns and donate all the items
+  A donation app that lets you participate in campaigns and donate all the items you dont' need using Firebase as a backend
  - participate in monthly updated campaings .
  - Users can add/edit their donated item easily with all important details and save it using Firestore.
  - Using Firebase cloud messaging to push notifications about new campaigns and verifying the donation to the users.
