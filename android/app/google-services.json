@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513995577376",
+    "project_id": "smile-makers-c8b0e",
+    "storage_bucket": "smile-makers-c8b0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513995577376:android:fe751dbf0e66448e84c445",
+        "android_client_info": {
+          "package_name": "com.example.smile_makers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513995577376-fhtamjd88fqbiqfeqi0p3298d80slfia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvDN6AK6Todq6FCxow2XY3uLhuMvwQJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513995577376-fhtamjd88fqbiqfeqi0p3298d80slfia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
