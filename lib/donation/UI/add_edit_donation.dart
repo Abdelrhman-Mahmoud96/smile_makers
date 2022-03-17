@@ -219,7 +219,9 @@ class _AddEditDonationState extends State<AddEditDonation> {
                           image: _photo != null ? NetworkImage(_photo!): NetworkImage(widget.item!.imgUrl!) as ImageProvider
                       ),
                    );
-                  }else{
+                  }
+
+                  else{
                     return Container(
                       decoration: BoxDecoration(
                         color: SmileColors.smileDarkBlue,
